@@ -5,7 +5,7 @@
   
   🤖 Smart Contracts: `Solidity`
   
-  💻 Frontend: `Next.js` | `React`
+  💻 Frontend: `Next.js` | `React` | `Tailwind CSS`
   
   ⚙️ Backend: `C#`, `C`
   
