@@ -25,15 +25,15 @@
   
   <!-- 项目展示 -->
 ## 🚀 Featured Projects
-<!--
+
 <table>
   <tr>
     <td width="50%">
-      <h3>Web3 DApp</h3>
-      <p>A decentralized application built with Solidity and Next.js</p>
+      <h3><a href="https://github.com/ZophiaWong/defi-stablecoin-f25">Defi Stablecoin</a></h3>
+      <p>A decentralized stablecoin where users can deposit WETH and WBTC in exchange for a token that will be pegged to the USD.</p>
       <p>
         <img src="https://img.shields.io/badge/Solidity-✓-blue" />
-        <img src="https://img.shields.io/badge/Next.js-✓-black" />
+        <img src="https://img.shields.io/badge/Foundry-✓-black" />
       </p>
     </td>
     <td width="50%">
@@ -46,7 +46,7 @@
     </td>
   </tr>
 </table>
--->
+
 </div>
 
 
