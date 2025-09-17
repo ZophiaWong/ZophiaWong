@@ -28,17 +28,31 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <h2 align="center">Smart Contract</h2>
       <h3><a href="https://github.com/ZophiaWong/defi-stablecoin-f25">Defi Stablecoin</a></h3>
-      <p>A decentralized stablecoin where users can deposit WETH and WBTC in exchange for a token that will be pegged to the USD.</p>
+      <p>A decentralized stablecoin where users can deposit WETH and WBTC in exchange for a token pegged to the USD.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Solidity-✓-blue" />
+        <img src="https://img.shields.io/badge/Foundry-✓-black" />
+      </p>
+      <h3><a href="https://github.com/ZophiaWong/defi-stablecoin-f25">Upgradeable Proxy</a></h3>
+      <p>A decentralized stablecoin where users can deposit WETH and WBTC in exchange for a token pegged to the USD.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Solidity-✓-blue" />
+        <img src="https://img.shields.io/badge/Foundry-✓-black" />
+      </p>
+      <h3><a href="https://github.com/ZophiaWong/defi-stablecoin-f25">Minimal Account Abstraction</a></h3>
+      <p>A decentralized stablecoin where users can deposit WETH and WBTC in exchange for a token pegged to the USD.</p>
       <p>
         <img src="https://img.shields.io/badge/Solidity-✓-blue" />
         <img src="https://img.shields.io/badge/Foundry-✓-black" />
       </p>
     </td>
-    <td width="50%">
-      <h3>C# API</h3>
-      <p>A RESTful API built with C# and .NET Core</p>
+    <td width="50%" valign="top">
+      <h2 align="center">Full-stack</h2>
+      <h3>Solidity 101 Practice</h3>
+      <p>A Next.js + Tailwind Project</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-✓-green" />
         <img src="https://img.shields.io/badge/.NET-✓-purple" />
