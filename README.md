@@ -57,6 +57,12 @@
         <img src="https://img.shields.io/badge/C%23-✓-green" />
         <img src="https://img.shields.io/badge/.NET-✓-purple" />
       </p>
+      <h3>ts-tsender</h3>
+      <p>A Next.js + Tailwind Project</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-✓-green" />
+        <img src="https://img.shields.io/badge/.NET-✓-purple" />
+      </p>
     </td>
   </tr>
 </table>
