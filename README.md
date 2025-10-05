@@ -60,13 +60,23 @@
       <h3>ts-tsender</h3>
       <p>A Next.js + Tailwind Project</p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-✓-green" />
-        <img src="https://img.shields.io/badge/.NET-✓-purple" />
+        <img src="https://img.shields.io/badge/Solidity-✓-green" />
+        <img src="https://img.shields.io/badge/Next.js-✓-black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+   <td width="50%" valign="top">
+      <h2 align="center">Smart Contract Security</h2>
+      <h3>PasswordStore</h3>
+      <p>First Contract Audit</p>
+      <p>
+        <img src="https://img.shields.io/badge/Solidity-✓-blue" />
+        <img src="https://img.shields.io/badge/Foundry-✓-black" />
       </p>
     </td>
   </tr>
 </table>
-
 </div>
 
 
