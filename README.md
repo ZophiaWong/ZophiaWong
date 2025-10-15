@@ -68,8 +68,8 @@
   <tr>
    <td width="50%" valign="top">
       <h2 align="center">Smart Contract Security</h2>
-      <h3>PasswordStore</h3>
-      <p>First Contract Audit</p>
+      <h3><a href="https://github.com/ZophiaWong/smart-contract-security-portfolio">smart-contract-security-portfolio</a></h3>
+      <p>Collection of smart contract resources and my competive audit reports portfolios.</p>
       <p>
         <img src="https://img.shields.io/badge/Solidity-✓-blue" />
         <img src="https://img.shields.io/badge/Foundry-✓-black" />
