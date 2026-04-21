@@ -1,6 +1,6 @@
 <div align="center">
   
-### Full-Stack & Web3 Developer
+### Full-Stack & AI Agent & Web3 Developer
   🌐 Building the next generation of web apps & dApps.
   
   🤖 Smart Contracts: `Solidity`
@@ -20,7 +20,7 @@
   </p>
   
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=280&lines=Full-Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=280&lines=Full-Stack+Developer;AI+Agent+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </div>
   
   <!-- 项目展示 -->
@@ -50,29 +50,24 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h2 align="center">Full-stack</h2>
-      <h3>Solidity 101 Practice</h3>
-      <p>A Next.js + Tailwind Project</p>
+      <h2 align="center">AI Agent workflow</h2>
+      <h3>Supportflow Agent</h3>
+      <p>Workflow that stimulates the support ticket flow in a mock company. </p>
       <p>
         <img src="https://img.shields.io/badge/C%23-✓-green" />
         <img src="https://img.shields.io/badge/.NET-✓-purple" />
       </p>
-      <h3>ts-tsender</h3>
-      <p>A Next.js + Tailwind Project</p>
+      <h3>Eventflow Agent</h3>
+      <p>事件驱动的市场情报与决策支持多 Agent 系统</p>
       <p>
         <img src="https://img.shields.io/badge/Solidity-✓-green" />
         <img src="https://img.shields.io/badge/Next.js-✓-black" />
       </p>
-    </td>
-  </tr>
-  <tr>
-   <td width="50%" valign="top">
-      <h2 align="center">Smart Contract Security</h2>
-      <h3><a href="https://github.com/ZophiaWong/smart-contract-security-portfolio">smart-contract-security-portfolio</a></h3>
-      <p>Collection of smart contract resources and my competive audit reports portfolios.</p>
+      <h3>AI Agent Job Portfolio</h3>
+      <p>Contains the best practice, useful tools, and etc.</p>
       <p>
-        <img src="https://img.shields.io/badge/Solidity-✓-blue" />
-        <img src="https://img.shields.io/badge/Foundry-✓-black" />
+        <img src="https://img.shields.io/badge/Solidity-✓-green" />
+        <img src="https://img.shields.io/badge/Next.js-✓-black" />
       </p>
     </td>
   </tr>
