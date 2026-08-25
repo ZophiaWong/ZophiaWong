@@ -1,79 +1,183 @@
 <div align="center">
-  
-### Full-Stack & AI Agent & Web3 Developer
-  🌐 Building the next generation of web apps & dApps.
-  
-  🤖 Smart Contracts: `Solidity`
-  
-  💻 Frontend: `Next.js` | `React` | `Tailwind CSS`
-  
-  ⚙️ Backend: `C#`, `C`, `MySQL`
-  
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZophiaWong&layout=compact&theme=radical)
-  
-  <p>
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  </p>
-  
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=280&lines=Full-Stack+Developer;AI+Agent+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-  </div>
-  
-  <!-- 项目展示 -->
-## 🚀 Featured Projects
+
+<h1>Zephyr Wong</h1>
+
+<h3>AI Agent Engineer</h3>
+
+<p>
+  I build AI agent systems with explicit execution boundaries —<br/>
+  governed tools, human approval, traceable decisions, and verified completion.
+</p>
+
+<p>
+  From domain-specific agent products to from-scratch coding-agent runtimes.
+</p>
+
+<p>
+  <strong>Currently focused on AI Agent / Applied AI engineering roles.</strong>
+</p>
+
+<br/>
+
+<h2>🚀 Featured Projects</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h2 align="center">Smart Contract</h2>
-      <h3><a href="https://github.com/ZophiaWong/defi-stablecoin-f25">Defi Stablecoin</a></h3>
-      <p>A decentralized stablecoin where users can deposit WETH and WBTC in exchange for a token pegged to the USD.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Solidity-✓-blue" />
-        <img src="https://img.shields.io/badge/Foundry-✓-black" />
-      </p>
-      <h3><a href="https://github.com/ZophiaWong/defi-stablecoin-f25">Upgradeable Proxy</a></h3>
-      <p>A decentralized stablecoin where users can deposit WETH and WBTC in exchange for a token pegged to the USD.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Solidity-✓-blue" />
-        <img src="https://img.shields.io/badge/Foundry-✓-black" />
-      </p>
-      <h3><a href="https://github.com/ZophiaWong/defi-stablecoin-f25">Minimal Account Abstraction</a></h3>
-      <p>A decentralized stablecoin where users can deposit WETH and WBTC in exchange for a token pegged to the USD.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Solidity-✓-blue" />
-        <img src="https://img.shields.io/badge/Foundry-✓-black" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h2 align="center">AI Agent workflow</h2>
-      <h3>Supportflow Agent</h3>
-      <p>Workflow that stimulates the support ticket flow in a mock company. </p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-✓-green" />
-        <img src="https://img.shields.io/badge/.NET-✓-purple" />
-      </p>
-      <h3>Eventflow Agent</h3>
-      <p>事件驱动的市场情报与决策支持多 Agent 系统</p>
-      <p>
-        <img src="https://img.shields.io/badge/Solidity-✓-green" />
-        <img src="https://img.shields.io/badge/Next.js-✓-black" />
-      </p>
-      <h3>AI Agent Job Portfolio</h3>
-      <p>Contains the best practice, useful tools, and etc.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Solidity-✓-green" />
-        <img src="https://img.shields.io/badge/Next.js-✓-black" />
-      </p>
-    </td>
+
+<h2 align="center">Agent Product Engineering</h2>
+
+<h3>
+  <a href="https://github.com/ZophiaWong/meter-desk">MeterDesk</a>
+</h3>
+
+<p>
+  <strong>Governed AI Agent Product for Billing Support</strong>
+</p>
+
+<p>
+  A ticket-driven agent workbench for investigating billing disputes
+  on usage-based API and AI platforms.
+</p>
+
+<p align="left">
+  <strong>Evidence-grounded decisions.</strong><br/>
+  Investigations operate on backend-owned billing and policy evidence
+  rather than unrestricted model knowledge.
+</p>
+
+<p align="left">
+  <strong>Governed actions.</strong><br/>
+  Refund and credit mutations remain blocked until an authorized human
+  explicitly approves the proposed action.
+</p>
+
+<p align="left">
+  <strong>Verifiable workflows.</strong><br/>
+  Persistent traces and offline evals check both final outcomes and execution paths,
+  including evidence coverage, policy compliance, and approval routing.
+</p>
+
+<p>
+  <code>Python</code>
+  ·
+  <code>FastAPI</code>
+  ·
+  <code>Next.js</code>
+  ·
+  <code>PostgreSQL</code>
+</p>
+
+<p>
+  <a href="https://github.com/ZophiaWong/meter-desk"><strong>Repository</strong></a>
+  ·
+  <a href="https://github.com/ZophiaWong/meter-desk/blob/main/intv/meterdesk-demo-walkthrough.md"><strong>Demo Walkthrough</strong></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">Agent Runtime Engineering</h2>
+
+<h3>
+  <a href="https://github.com/ZophiaWong/forge-harness">Forge Harness</a>
+</h3>
+
+<p>
+  <strong>From-Scratch Coding Agent Runtime</strong>
+</p>
+
+<p>
+  A TypeScript implementation of coding-agent runtime mechanisms,
+  from the model-tool loop to governed execution and verified completion.
+</p>
+
+<p align="left">
+  <strong>Governed execution.</strong><br/>
+  Model intent crosses an explicit <code>allow / ask / deny</code>
+  permission boundary before tool dispatch.
+</p>
+
+<p align="left">
+  <strong>Durable execution evidence.</strong><br/>
+  Bounded, compactable model context is kept separate from append-only
+  runtime traces used for review and verification.
+</p>
+
+<p align="left">
+  <strong>Verified completion.</strong><br/>
+  Delegated work, task verification, Git integration, and completion
+  obligations must resolve before the runtime accepts finalization.
+</p>
+
+<p>
+  <code>TypeScript</code>
+  ·
+  <code>Node.js</code>
+  ·
+  <code>Git Worktrees</code>
+  ·
+  <code>MCP</code>
+</p>
+
+<p>
+  <a href="https://github.com/ZophiaWong/forge-harness"><strong>Repository</strong></a>
+  ·
+  <a href="https://github.com/ZophiaWong/forge-harness/blob/main/docs/architecture-overview.md"><strong>Architecture</strong></a>
+  ·
+  <a href="https://github.com/ZophiaWong/forge-harness/blob/main/docs/engineering-case-study.md"><strong>Engineering Case Study</strong></a>
+</p>
+
+</td>
   </tr>
 </table>
+
+<br/>
+
+<h2>🧩 Engineering Focus</h2>
+
+<p>
+  <code>TypeScript</code>
+  ·
+  <code>Python</code>
+  ·
+  <code>FastAPI</code>
+  ·
+  <code>Next.js</code>
+  ·
+  <code>PostgreSQL</code>
+  ·
+  <code>Agent Evals</code>
+  ·
+  <code>MCP</code>
+</p>
+
+<br/>
+
+<h2>📚 Research & Engineering Notes</h2>
+
+<p>
+  Coding-agent runtime studies grounded in implementation,
+  architecture analysis, and source-level comparison.
+</p>
+
+<p>
+  <a href="https://github.com/ZophiaWong/forge-harness/blob/main/docs/design-studies/context-management.md">
+    Context Management
+  </a>
+  ·
+  <a href="https://github.com/ZophiaWong/forge-harness/blob/main/docs/design-studies/tool-runtime.md">
+    Tool Runtime
+  </a>
+  ·
+  <a href="https://github.com/ZophiaWong/forge-harness/blob/main/docs/design-studies/session-persistence.md">
+    Session Persistence
+  </a>
+  ·
+  <a href="https://github.com/ZophiaWong/forge-harness/blob/main/docs/design-studies/multi-agent-coordination.md">
+    Multi-Agent Coordination
+  </a>
+</p>
+
 </div>
-
-
-
-
